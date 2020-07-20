@@ -1,0 +1,37 @@
+1.What is your understanding of Blockchain?
+
+Blockchain is a simplest of terms, "A time stamped series of immutable record of data that is managed by clusters of computers not owned by any single entity."
+Each of these blocks of data are secured and bound to each other using Cryptographic Principle that is Chain. "Blockchain carries no transaction cost"
+Example of Blockchain: Buy tickets on an app or the web the credit card company takes a cut for processing the transaction, so by using the Blockchain it can be Free of Cost.
+
+2.What is the core problem Blockchain trying to solve?
+
+A problem with Internet 2.0 is to be Authenticity, Security And Need of Powerful third party trust, So Using Blockchain this Problems will solved
+For transaction in Banking system they required lot of security and Trust with third parties also required authenticity of the user using this blockchain technology it can be removes this problems.
+
+3.What are the few features which Blockchain will give you?
+
+Blockchain is a mix of Technology Distributed Database and Cryptography so they give the features Like
+- Verifiable
+- Unchangeable
+- Tamperproof
+- Immutable
+- Authenticity
+- No Hacking
+- Decentralized
+- Data Transparency
+- Huge Security Boost
+
+4.What all things does a Block contain?
+
+In Blockchain a Block Contains:
+- Block Number
+- Data / Transaction Record
+- Previous Digital Signature / Block Key
+- Mining Key of Block
+
+5.How is the verifiability of Blockchain has been attained?
+
+A blockchain is a mix of technology Distributed Database and Cryptography. So in the Distributed Database the same data will be stored in many different places so there is advantage of backup of same data.
+for example, there are whatsapp group of 100 peaople if the same copy of data will send to the whatsapp group then everyone has get digital signature for downloading the data from group. In that case 
+if anyone out of 100 people get wrong digital signature then remainig 99 people of group can be replace there data and then verifaible attained.
